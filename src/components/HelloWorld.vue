@@ -80,6 +80,12 @@
         </a>
       </li>
     </ul>
+    <h2>MAP</h2>
+    <ul>
+      <li>
+        <router-link to="/map">Index</router-link>
+      </li>
+    </ul>
   </div>
 </template>
 
