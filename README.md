@@ -30,7 +30,18 @@ npm test
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 ## 文件目录
-
+.
+    +-- build    构建脚本目录
+    +-- config   构建配置目录
+    +-- node_modules   依赖包
+    +-- src       源文件
+    |   +-- assets       资源
+    |   +-- components   组件
+    |   +-- router       路由
+    |   +-- App.vue      页面级Vue组件
+    |   +-- main.js      页面入口JS文件
+    +-- static   静态文件
+    +-- test     测试文件
 
 ## 知识点总结
 
@@ -47,8 +58,10 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 3. 了解整个文件目录分别有什么作用，将README的文件目录说明补充完整。
 
-4. 了解下vue-cli。
+4. 了解下vue-cli，输出blog。
 
-5. 了解下vue-router。
+5. 了解下vue-router，输出blog。
 
 6. 规划map的功能点。
+
+7. H5页面。
